@@ -1,0 +1,17 @@
+/apiValidations.py
+
+.idea/
+.DS_Store
+*.pyc
+/AllureReports/
+
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+/dbDemo.py
+/jsonParsing.py
+/miscellaneous.py
+/payLoad.py
+/postAPIexample.py
